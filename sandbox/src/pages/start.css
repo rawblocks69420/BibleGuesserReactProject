@@ -1,0 +1,51 @@
+.buttonlink {   
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #6D98BA;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: Black;
+    font-weight: bold;
+    line-height: 25px;
+    text-decoration: none;
+    font-weight: bolder;
+    margin:auto;
+}
+.buttonlink:hover {
+    background-color: blue;
+}
+
+body {
+    background-color: #D3B99F;
+}
+
+.infoDisplay {
+
+    background-color: #C17767;
+    border-radius: 20px;
+    margin:auto;
+    padding: 20px;
+    margin: 20px 20px 40px 50px;
+    text-align: center;
+
+}
+.smallWidth {
+    width:30%;
+    float:left;
+}
+.mediumWidth{
+    width:60%;
+}
+.centerDiv {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.thisclass p {
+
+
+    font-size:20px;
+}
